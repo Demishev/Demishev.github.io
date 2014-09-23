@@ -1,0 +1,9 @@
+# Site settings
+title: Konstantin Demishev's blog
+description: This is my blog. Enjoy.
+url: "http://demishev.github.io" 
+twitter_username: "K_Demishev"
+github_username:  "Demishev"
+
+# Build settings
+markdown: kramdown
