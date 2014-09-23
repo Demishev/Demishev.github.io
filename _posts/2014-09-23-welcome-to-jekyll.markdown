@@ -1,25 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-09-23 21:09:57
-categories: jekyll update
+title:  "Hello world!"
+date:   2014-09-23 23:04:57
+categories: Hello world!
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+This would be my first post on this my new blog.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Now I am new, but really glad to use to `jekyll` as a static html from markdown generator. Also I am new to practical use of markdown, but it is amazing!  I can make my posts in sublime and upload them dirrectly from terminal to github, that immediatly hooks them to the web! Fantastic!
+All my blog is a repository in my github account. 
 
-Jekyll also offers powerful support for code snippets:
+I think that this blog should be about some new technologies and technics I use in my daily work and pet-projects.
+I will try to cover some topics and questions, that I think would be interesting to me and public.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+So, stay in touch. I hope, to fill this blog on regular basis.
