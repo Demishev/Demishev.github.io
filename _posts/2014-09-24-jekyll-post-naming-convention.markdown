@@ -2,7 +2,7 @@
 layout: post
 title:  "Note about jekyll post naming convention."
 date:   2014-09-24 19:00:00
-categories: Scala poker
+categories: jekyll
 ---
 
 Hi, guys.
